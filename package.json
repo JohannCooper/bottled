@@ -1,0 +1,32 @@
+{
+  "name": "bottled",
+  "version": "1.0.0",
+  "description": "Batch + Throttle = Bottle",
+  "license": "MIT",
+  "repository": "JohannCooper/bottled",
+  "author": "Johann Cooper",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.14.0",
+    "typescript": "^5.8.3"
+  },
+  "keywords": [
+    "batch",
+    "batched",
+    "bottle",
+    "bottled",
+    "debounce",
+    "debounced",
+    "promise",
+    "throttle",
+    "throttled"
+  ]
+}
