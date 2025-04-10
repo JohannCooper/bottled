@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Batch + Throttle = Bottle</h4>
+<h4 align="center">Batched + Throttled = Bottled</h4>
 
 <p align="center">
   <a href="#overview">Overview</a> •
